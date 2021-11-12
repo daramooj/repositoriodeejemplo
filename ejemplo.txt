@@ -5,3 +5,12 @@ esta es una prueba de el curso de git y github profesional en platzi
 haremos cambios en este doncumento de texto plano
 
 comencemos :)
+experimento 1 
+experimento 2
+
+MASTER1
+
+MASTER2
+
+deseo que este cambio vaya a local 
+
