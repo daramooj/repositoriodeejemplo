@@ -12,7 +12,7 @@ MASTER1
 
 MASTER2
 
-deseo que este cambio vaya a local 
+deseo que este cambio vaya y se vea en local
 cambio 1
 
 otro cambio
