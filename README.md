@@ -12,7 +12,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy y Anita Paltzi
-* Creado por el increíble Platzi Team
+* Creado por el increíble Platzi Team 2
 * Incluye ejemplos en Windows, GPU-Linux y Mac
 * Disponible para todas las edades y generos
 
