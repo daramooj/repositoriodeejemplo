@@ -13,6 +13,8 @@ MASTER1
 MASTER2
 
 deseo que este cambio vaya a local 
-cambio
+cambio 1
 
 otro cambio
+
+3 cambio
